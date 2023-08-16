@@ -1,0 +1,13 @@
+{
+  "relayer": {
+    "relayerId": "7f9eabbc-1442-4b5b-83dd-65ec93747e47",
+    "name": "Decir Relay matic",
+    "address": "0xce35c46aa99142761456e8f81bc52e99921949af",
+    "network": "matic",
+    "createdAt": "2022-11-14T18:49:23.638Z",
+    "paused": false,
+    "policies": {},
+    "minBalance": "100000000000000000",
+    "pendingTxCost": "0"
+  }
+}
